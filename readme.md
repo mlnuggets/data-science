@@ -1,0 +1,1 @@
+1. [Numpy tutorial](https://www.machinelearningnuggets.com/numpy-tutorial)
