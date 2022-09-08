@@ -4,3 +4,4 @@
 4. [Python for data science](https://www.machinelearningnuggets.com/python-for-data-science)
 5. [Data visualization with Matplotlib](https://www.machinelearningnuggets.com/data-visualization-with-matplotlib)
 6. [Seaborn tutorial](https://www.machinelearningnuggets.com/seaborn-tutorial)
+7. [Linear regression in Python with Scikit-learn](https://www.machinelearningnuggets.com/python-linear-regression)
