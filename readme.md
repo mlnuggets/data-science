@@ -7,3 +7,4 @@
 7. [Seaborn tutorial](https://www.machinelearningnuggets.com/seaborn-tutorial)
 8. [Linear regression in Python with Scikit-learn](https://www.machinelearningnuggets.com/python-linear-regression)
 9. [Logistic regression in Python with Scikit-learn](https://www.machinelearningnuggets.com/logistic-regression)
+10.[Decision Trees and Random Forests](https://www.machinelearningnuggets.com/decision-trees-and-random-forests)
